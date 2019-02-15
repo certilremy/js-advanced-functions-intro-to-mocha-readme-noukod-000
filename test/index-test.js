@@ -1,4 +1,4 @@
-describe('Intro to Mocha', function () {
+('Intro to Mocha', function () {
   describe('theTruth()', function () {
     it('should return true', function () {
       expect(theTruth()).toEqual(true);
